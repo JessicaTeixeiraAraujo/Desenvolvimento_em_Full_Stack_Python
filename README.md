@@ -14,6 +14,6 @@ Formação profissional em desenvolvimento fullstack python atua na integração
 </span>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/111321791/208242295-5cd2212d-f2b0-46e5-ab7f-4b85de42a284.PNG" width="1050px" />
+<img src="https://user-images.githubusercontent.com/111321791/208245844-01692703-5fe3-427b-b027-0c96d6f636b1.PNG" width="1050px" />
 
 </div>
