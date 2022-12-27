@@ -9,7 +9,7 @@
 
 ## Neste local, você encontrará os projetos elaborados durante a minha formação.
 
-Formação profissional em desenvolvimento fullstack python atua na integração entre back-end (server side) e front-end (client side), ou seja, é um profissional capaz de entender, produzir e entregar um projeto completo.
+O profissional desenvolvedor fullstack python atua na integração entre back-end (server side) e front-end (client side), ou seja, é um profissional capaz de entender, produzir e entregar um projeto completo.
 
 </span>
 
